@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/shiuchiauru/padlet-images/main/<資料夾>/<�
 
 ## gemini-canvas
 
-給國小老師的 Gemini Canvas 研習用引導圖，1536×1024，五個區段各一張。
+給國小班級導師的 Gemini Canvas 研習用引導圖（聚焦國語與數學），1536×1024，五個區段各一張，各區最上方一張。
 
 | 檔名 | 對應區段 | 旁白 |
 |---|---|---|
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/shiuchiauru/padlet-images/main/<資料夾>/<�
 | `04-google-apps-script.png` | ④ 串接 Google Apps Script | 學生答完，成績自動進試算表 |
 | `05-netlify-publish.png` | ⑤ 發布到 Netlify | 一個網址，全班都能用 |
 
-對應板子：https://padlet.com/friends69096/gemini-canvas-21oahuh3fnslo5ro
+對應板子：https://padlet.com/friends69096/gemini-canvas-k9mt47ucyqhnq5se
 
 ## 注意
 
